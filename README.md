@@ -5,3 +5,5 @@
 [Notebook](https://github.com/harshildarji/Machine-Learning-Recipes-with-Josh-Gordon/blob/master/Hello%20World%20-%20Machine%20Learning%20Recipes%20%231.ipynb) | [Video](https://youtu.be/cKxRvEZd3Mw?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - **Visualizing a Decision Tree - Machine Learning Recipes #2**&nbsp;
 [Notebook](https://github.com/harshildarji/Machine-Learning-Recipes-with-Josh-Gordon/blob/master/Visualizing%20a%20Decision%20Tree%20-%20Machine%20Learning%20Recipes%20%232.ipynb) | [Video](https://youtu.be/tNa99PG8hR8?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- **What Makes a Good Feature? - Machine Learning Recipes #3**&nbsp;
+[Notebook](https://github.com/harshildarji/Machine-Learning-Recipes-with-Josh-Gordon/blob/master/What%20Makes%20a%20Good%20Feature%20-%20Machine%20Learning%20Recipes%20%233.ipynb) | [Video](https://youtu.be/N9fDIAflCMY?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
